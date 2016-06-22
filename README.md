@@ -12,3 +12,9 @@
 ```
 # docker run -d -p 7001:80 <myname>:<mytag>
 ```
+
+* Get Docker runtime information
+
+```
+# docker stats 
+```
