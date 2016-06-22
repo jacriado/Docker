@@ -18,3 +18,41 @@
 ```
 # docker stats 
 ```
+
+* Go to the Docker shell
+
+```
+# docker attach <docker_name>
+```
+
+* List dockers running
+
+```
+# docker ps 
+```
+
+* List all existing dockers
+
+```
+# docker ps -a
+```
+
+* Remove an existing Docker
+
+```
+# docker rm <docker_name>
+```
+
+* List available image
+
+```
+# docker image
+```
+
+* Remove an image
+
+```
+# docker rmi <image_name>
+```
+
+ 
